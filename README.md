@@ -6,8 +6,8 @@
 </ul> 
 <h4>Особенность проекта в следующем:</h4>
 <ul>
- <li>Киллерфича-1;</li>
- <li>Киллерфича-2;</li>
+ <li>Возможность получить баллы за прохождение викторин, с возможностью их обмена на поездки</li>
+ <li></li>
  <li>Киллерфича-3;</li>  
  </ul>
 <h4>Основной стек технологий:</h4>
@@ -27,8 +27,10 @@ git clone https://github.com/ilyapetuchov0/studturism.git
 cd studturism
 npm install
 expo start
-...
 ~~~
+
+ПРИ ВОЗНИКНОВЕНИИ ОШИБКИ: ERROR  Invariant Violation: ViewPropTypes has been removed from React Native. Migrate to ViewPropTypes exported from 'deprecated-react-native-prop-types'.
+необходимо воспользоваться решением, представленным на сайте: https://stackoverflow.com/questions/72755476/invariant-violation-viewproptypes-has-been-removed-from-react-native-migrate-t
 
 РАЗРАБОТЧИКИ
 
