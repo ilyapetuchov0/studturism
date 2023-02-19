@@ -14,7 +14,7 @@
     <li>ReactNative</li>
  </ul>
 <h4>Демо</h4>
-<p>Демо сервиса доступно по адресу: http://demo.test </p>
+<p>Демо сервиса доступно по адресу: [http://demo.test](https://expo.dev/accounts/ilyapetuchov0/projects/student-travel/builds/a6da3222-20a6-420d-b5c0-f63fbd9b4f37)] </p>
 
 
 УСТАНОВКА
